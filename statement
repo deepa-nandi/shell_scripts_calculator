@@ -1,0 +1,9 @@
+Shell Script to construct a basic calculator.
+Firstly, two numbers were taken as the user input, and then the following operations were performed:
+
+If Option = 1, then it will perform Addition of two numbers.
+If Option = 2, then it will perform Subtraction of two numbers.
+If Option = 3, then it will perform Multiplication of two numbers.
+If Option = 4, then it will perform Division of two numbers.
+If Option = 5, then it will give Remainder of two numbers.
+If some other options are selected, then it will throw an error and will display the message as "wrong choice".
